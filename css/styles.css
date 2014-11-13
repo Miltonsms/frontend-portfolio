@@ -1,3 +1,106 @@
 /*
 Aqui escribe tu codigo de CSS.
 */
+
+
+img {
+	margin-left: 45px;
+}
+.parafo{
+		margin-left: 525px;
+}
+
+
+
+
+
+.llave {
+	text-align: center;
+	font-family: Garamond, serif;
+	font-size: 22px;
+}
+.pri{
+	text-align: left;
+	color: #808080;
+	font-size: 22px;
+	font-family: Arial;
+}
+.linea{
+	border-radius: 11px;
+    border: 1px  solid #C0C0C0;
+    background-color: #C0C0C0;
+    margin: 10px 5px 5px 50px;
+
+
+}
+
+.ites{
+	text-align: center;
+	color: blue;
+
+}
+
+.modulo1 {
+	border-radius: 11px;
+	
+	background-color: #2988E1;
+	height: 200px;
+	width: 400px;
+	margin: auto;
+	text-align: center;
+	line-height: 35px;
+	box-shadow: rgba(0,0,0,0.2) 10px 10px;
+
+
+
+}
+.modulo2 {
+	border-radius: 11px;
+	background-color: #BF00FF;
+	height: 200px;
+	width: 400px;
+	margin: auto;
+	margin-left: 25px;
+	text-align: center;
+	line-height: 150px;
+	box-shadow: rgba(0,0,0,0.2) 10px 10px;
+
+}
+
+.modulo3 {
+	border-radius: 11px;
+	background-color: #FF0066;
+	height: 200px;
+	width: 400px;
+	margin: auto;
+	text-align: center;
+	line-height: 150px;
+	box-shadow: rgba(0,0,0,0.2) 10px 10px;
+
+
+}
+.modulo4 {
+	border-radius: 11px;
+	background-color: #CCFF99;
+	height: 200px;
+	width: 400px;
+	margin: auto;
+	text-align: center;
+	margin-left: 25px;
+	line-height: 150px;
+	box-shadow: rgba(0,0,0,0.2) 10px 10px;
+}
+span {
+	font-weight: bold;
+	font-size: 40px;
+	color: #EFF8FB;
+
+}
+a {
+	text-decoration: none;
+	color: #3D59AB;
+	font-family: Verdana, sans-serif;
+}
+
+
+
