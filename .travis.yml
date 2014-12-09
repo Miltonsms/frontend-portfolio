@@ -1,0 +1,11 @@
+language: node_js
+node_js:
+  - "0.10"
+
+before_install: npm -d install
+
+script:
+  - gulp
+
+notifications:
+  slack: cognits:kXh4hNJt4Pxq8b0qFHsg46la
